@@ -1,0 +1,24 @@
+.photo{
+    width: 100%;
+}
+.product{
+   border: 3px solid darkgray;
+   border-radius: 10px;
+   padding: 30px;
+   box-shadow: 5px 5px 10px black;
+}
+button{
+    border: 0;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.664);
+}
+button:hover{
+    background-color: coral;
+}
+.product:hover{
+    background-color: rgb(170, 168, 165);
+}
